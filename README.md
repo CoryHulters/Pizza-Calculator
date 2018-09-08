@@ -3,6 +3,8 @@
 
         <h1> Pizza Calculator </h1>
 
+<!--Applicatie Ontwikkeling
+Cory Hulters-->
         <!--Maakt elke input en prijs label voor elke maat pizza-->
         Small Pizzas: <input type="text" id = "SmallPizza" name="Small Pizzas" value="0"><br> <p>Cost: €1.00</p>
         Medium Pizzas: <input type="text" id = "MediumPizza" name="Medium Pizzas" value="0"><br> <p>Cost: €2.00</p>
